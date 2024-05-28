@@ -12,7 +12,7 @@ Instructions for Testing:
 
 1-Ensure you have all the necessary files: the dataset provided, modeltraining.py, and testuploading.py.
 
-2-Execute modeltraining.py to train the model. This will generate a trained model file (trained_model.pkl)and required objects in your repository.
+2-Execute modeltraining.py to train the model. This will generate a trained model file (trained_model.pkl)and required objects in your repository. You can also access the pre-trained files available in the project's GitHub repository. (trained_model.pkl, org_encoder.pkl, max_length.pkl, org_parts_dict.pkl, part_encoder.pkl)
 
 3-Upload your test data to testuploading.py.
 
