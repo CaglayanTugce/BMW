@@ -1,6 +1,6 @@
 Information About Files:
 
-model_code.py: This file contains the code used for training and testing my prediction model. It includes all the details of the implementation and accuracy results.
+model_code.py: This file contains the code used for training and testing my prediction model. It includes all the details of the implementation (explanations are added as comments) and accuracy results.
 
 modeltraining.py: This script is used to train the model. It generates the trained model that will be utilized for making predictions.
 
