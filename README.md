@@ -13,5 +13,5 @@ To address the challenge posed by imbalanced classes within the dataset, the Ran
 
 ## Model Evaluation:
 
-Model performance was rigorously evaluated using various metrics, with a focus on assessing both overall accuracy and class-specific performance measures such as precision, recall, and F1-score. Cross-validation techniques were applied to validate the model's generalization ability, while holdout validation ensured unbiased performance estimation on unseen data.
+Model performance was evaluated using various metrics, with a focus on assessing both overall accuracy and class-specific performance measures such as precision, recall, and F1-score. Cross-validation techniques were applied to validate the model's generalization ability, while holdout validation ensured unbiased performance estimation on unseen data.
 
