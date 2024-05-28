@@ -1,0 +1,20 @@
+Information About Files:
+
+model_code.py: This file contains the code used for training and testing my prediction model. It includes all the details of the implementation and accuracy results.
+
+modeltraining.py: This script is used to train the model. It generates the trained model that will be utilized for making predictions.
+
+testuploading.py: This script is designed for making predictions using the trained model. It accepts new data inputs, typically in CSV format, and outputs predictions based on the trained model.
+
+trained_model.pkl, org_encoder.pkl, max_length.pkl, org_parts_dict.pkl, part_encoder.pkl: These files are pre-trained models and associated objects necessary for running the testuploading.py script. They are loaded within the script to facilitate prediction generation.
+
+Instructions for Testing:
+
+1-Ensure you have all the necessary files: the dataset provided, modeltraining.py, and testuploading.py.
+
+2-Execute modeltraining.py to train the model. This will generate a trained model file (trained_model.pkl)and required objects in your repository.
+
+3-Upload your test data to testuploading.py.
+
+4-Run testuploading.py. It will process the uploaded test data and generate predictions. The results will be saved in a new Excel file named results.csv, containing a column named "prediction" with the predicted values.
+
